@@ -1,17 +1,69 @@
 # CarDekho-Price-Prediction
 
-Problem Statement:
-The used car market in India is a dynamic and ever-changing landscape. Prices can fluctuate wildly based on a variety of factors including the make and model of the car, its mileage, its condition and the current market conditions. As a result, it can be difficult for sellers to accurately price their cars.
+# Project Overview
+This project focuses on predicting the prices of used cars based on various features such as mileage, year of manufacture, fuel type, and brand. By leveraging historical data from CarDekho.com, the model aims to provide actionable insights for buyers, sellers, and the broader used car market in India.
 
-Approach:
-We propose to develop a machine learning model that can predict the price of a used car based on its features. The model will be trained on a dataset of used cars that have been sold on Cardekho.com in India. The model will then be able to be used to predict the price of any used car, given its features.
+# Objectives
 
-Objective
-To build suitable Machine Learning Model for Used Car Price Prediction.
+• Develop an accurate machine learning model for predicting used car prices.
 
-Benefits:
-The benefits of this solution include:
+• Enhance pricing transparency and market efficiency in the Indian used car space.
 
-Sellers will be able to more accurately price their cars which will help them to sell their cars faster and for a higher price.
-Buyers will be able to find cars that are priced more competitively.
-The overall used car market in India will become more efficient.
+Dataset Link - https://drive.google.com/file/d/1WtxKHx5uQoFYmAEKNWs0Jdx4jkS-OXDq/view?usp=sharing
+
+# Benefits
+
+• For Sellers: Better pricing strategies for faster sales and higher profits.
+
+• For Buyers: Access to competitively priced vehicles.
+
+• For the Market: Improved efficiency and transparency in the used car market.
+
+# Approach
+
+1.Exploratory Data Analysis:
+
+• Univariate analysis using histograms and boxplots.
+
+• Bivariate analysis with scatter plots and correlation matrices.
+
+• Multivariate analysis using pair plots and regression plots.
+
+2.Data Preprocessing:
+
+• Handling missing values.
+
+• Encoding categorical variables.
+
+• Scaling and outlier removal.
+
+3.Model Development:
+
+• Regression-based machine learning model.
+
+4.Evaluation:
+
+• Metrics like R-squared and Mean Squared Error.
+
+# Tools and Libraries
+
+• Python
+
+• Pandas, NumPy
+
+• Matplotlib, Seaborn
+
+• Scikit-learn
+
+# Results
+
+The model provides reliable predictions for used car prices, leveraging features like mileage, year of manufacture, fuel type, and brand.
+
+How to Use
+
+1.Clone the repository.
+
+2.Access the dataset using the link above.
+
+3.Run the Jupyter Notebook file to explore the analysis and model development steps.
+
