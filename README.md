@@ -59,7 +59,7 @@ Dataset Link - https://drive.google.com/file/d/1WtxKHx5uQoFYmAEKNWs0Jdx4jkS-OXDq
 
 The model provides reliable predictions for used car prices, leveraging features like mileage, year of manufacture, fuel type, and brand.
 
-How to Use
+# How to Use
 
 1.Clone the repository.
 
